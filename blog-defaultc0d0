@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blog Default</title>
+		<description><![CDATA[Arlo Joomla 4 for any startup business, companies, agencies, and freelancers which need a professional way to showcase their projects and services]]></description>
+		<link>https://arlo.codelayers.net/arlo/blog-default</link>
+		<lastBuildDate>Sun, 21 Aug 2022 05:45:53 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://arlo.codelayers.net/arlo/blog-default?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>How to Create Great Logo for Your Business</title>
+			<link>https://arlo.codelayers.net/arlo/blog-default/1-how-to-create-great-logo-for-your-business</link>
+			<guid isPermaLink="true">https://arlo.codelayers.net/arlo/blog-default/1-how-to-create-great-logo-for-your-business</guid>
+			<description><![CDATA[<p><img src="https://arlo.codelayers.net/arlo/images/blog/1.jpg"></p><p>If you are reading this, you probably plan to start a small business or a side hustle very soon. And you probably have a couple ...</p>
+]]></description>
+			<category>Arlo</category>
+			<pubDate>Fri, 14 Jun 2019 22:41:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>How to Autumn Clean Your Design Career?</title>
+			<link>https://arlo.codelayers.net/arlo/blog-default/2-how-to-create-great-logo-for-your-business-2</link>
+			<guid isPermaLink="true">https://arlo.codelayers.net/arlo/blog-default/2-how-to-create-great-logo-for-your-business-2</guid>
+			<description><![CDATA[<p><img src="https://arlo.codelayers.net/arlo/images/blog/2.jpg"></p><p>If you are reading this, you probably plan to start a small business or a side hustle very soon. And you probably have a couple ...</p>
+]]></description>
+			<category>Arlo</category>
+			<pubDate>Fri, 14 Jun 2019 22:41:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>Innovative Ways to Increase Brand</title>
+			<link>https://arlo.codelayers.net/arlo/blog-default/3-how-to-create-great-logo-for-your-business-3</link>
+			<guid isPermaLink="true">https://arlo.codelayers.net/arlo/blog-default/3-how-to-create-great-logo-for-your-business-3</guid>
+			<description><![CDATA[<p><img src="https://arlo.codelayers.net/arlo/images/blog/3.jpg"></p><p>If you are reading this, you probably plan to start a small business or a side hustle very soon. And you probably have a couple ...</p>
+]]></description>
+			<category>Arlo</category>
+			<pubDate>Fri, 14 Jun 2019 22:41:23 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
